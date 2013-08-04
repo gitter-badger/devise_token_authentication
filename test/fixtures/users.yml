@@ -1,0 +1,13 @@
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "abc@abg.com"
+  profile_name: "jasonseifer"
+  encrypted_password: "password"
+
+jim:
+  first_name: "Jim"
+  last_name: "kier"
+  email: "abc23@abg.com"
+  profile_name: "jasjikjonseifer"
+  encrypted_password: "password"
