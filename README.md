@@ -1,0 +1,2 @@
+# devise_token_authentication
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/thienquang/devise_token_authentication?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
